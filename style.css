@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(81,129,184);
+}
+
+.verx{
+    background-color: rgb(255, 255, 255);
+    margin: -8px;
+}
+
+.log{
+    margin-right: 10px;
+    width: 200px;
+}
+
+.logo{
+    font-size: 36px;
+    background-color:  rgb(81,129,184);
+    margin-left: 540px;
+    margin-right: 540px;
+}
+
+#men {
+    display: inline;
+    font-size: 24px;
+    margin-right: 40px;
+}
+
+.vxod{
+    margin-left: 240px;
+}
+
+.reg{
+    margin-left: 0px;
+}
+
+.menu{
+    background-color: rgb(81,129,184);
+}
+
+.cel{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-bottom: 0px;
+    padding-left: 50px;
+}
+
+
+.dv{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 50px;
+}
+
+.otz{
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin-top: 0px;
+    padding-left: 50px;
+}
+
+.vkt{
+    margin-left: 40px;
+    font-size: 18px;
+}
+
+.action{
+    margin-left: 40px;
+    font-size: 28px;
+}
+
+.kamchatka{
+    width: 400px;
+}
+
+.kamchrai{
+    font-size: 22px;
+}
